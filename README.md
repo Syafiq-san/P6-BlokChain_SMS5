@@ -35,6 +35,11 @@ Perubahan data mengubah hasil `calculate_hash()`, sehingga tidak sama dengan has
 
 Untuk bukti pengumpulan, jalankan perintah di atas dan ambil screenshot terminal yang menampilkan jumlah blok serta hasil validasi sebelum dan sesudah data diubah.
 
+## Dokumen referensi
+
+- [Panduan Hands-on Pertemuan 6](referensi/Hands-on_Pertemuan_6_Implementasi_Blockchain_Sederhana_ITTS.pdf)
+- [Lembar Tugas 4](referensi/Pertemuan_06_Tugas_4_Implementasi_Blockchain_Python.pdf)
+
 ## Batasan
 
 Ini adalah simulasi blockchain lokal untuk pembelajaran. Program belum menerapkan jaringan peer-to-peer, tanda tangan digital, dompet, atau mekanisme konsensus untuk lingkungan produksi.
